@@ -5,5 +5,5 @@
         <s>Data de criação:  18/12/2022.</s><br>
         <s>Updated em:  19/12/2022.<br></s>
         <s>Updated em: 20/12/2022 - Validação de dados front-end.<br></s>
-        Updated em: 29/12/2022 - Correções de validação e estilização.<br>
+        Updated em: 29/12/2022 - Correção de validação e estilização.<br>
         <br>
